@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>WindowsGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/lucas/documents/visual studio 2013/Projects/Breakout/Content/blank.png</File>
+    <File>C:/Users/lucas/documents/visual studio 2013/Projects/Breakout/Content/GameOver.png</File>
+    <File>C:/Users/lucas/documents/visual studio 2013/Projects/Breakout/Content/heart.png</File>
+    <File>C:/Users/lucas/documents/visual studio 2013/Projects/Breakout/Content/hit.wav</File>
+    <File>C:/Users/lucas/documents/visual studio 2013/Projects/Breakout/Content/ChocolateMusic.mp3</File>
+    <File>C:/Users/lucas/documents/visual studio 2013/Projects/Breakout/Content/sugar.mp3</File>
+    <File>C:/Users/lucas/documents/visual studio 2013/Projects/Breakout/Content/paddle_sprite.png</File>
+    <File>C:/Users/lucas/documents/visual studio 2013/Projects/Breakout/Content/PokeBall.png</File>
+    <File>C:/Users/lucas/documents/visual studio 2013/Projects/Breakout/Content/Song.wma</File>
+    <File>C:/Users/lucas/documents/visual studio 2013/Projects/Breakout/Content/music.wav</File>
+    <File>C:/Users/lucas/documents/visual studio 2013/Projects/Breakout/Content/background.png</File>
+    <File>C:/Users/lucas/documents/visual studio 2013/Projects/Breakout/Content/Miramo.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
